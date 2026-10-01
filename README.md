@@ -804,7 +804,7 @@ streamlit run app/app_standalone.py
 
 # Author
 
-**Aashutosh Pathak**
+**Nipun Gupta**
 
 B.Tech Chemical Engineering  
 Motilal Nehru National Institute of Technology Allahabad
